@@ -2,7 +2,7 @@
 
 My name is Chris Nicolai
 
-![Chris Nicolai](https://github.com/thomasriecke/thomasriecke.github.io/blob/main/images/tutakoke.png)
+![Chris Nicolai](img/Chrisnicolai.jpg)
 
 Here is a
 [markdown guide](https://www.markdownguide.org/).

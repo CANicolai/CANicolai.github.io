@@ -2,7 +2,6 @@
 
 My name is Chris Nicolai
 
-![Chris Nicolai](img/Chrisnicolai.jpg)
 
 Here is a
 [markdown guide](https://www.markdownguide.org/).
